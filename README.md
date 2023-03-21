@@ -1,5 +1,5 @@
-# true-college-struggles
+# JAVA IS A FUCKING MESS
 
 this is just for college lmao dont mind this
 
-JAVA IS A FUCKING MESS
+...how did you get here
