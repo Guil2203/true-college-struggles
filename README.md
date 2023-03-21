@@ -1,5 +1,5 @@
-# true-college-struggles
+# python is nice :)
 
 this is just for college lmao dont mind this
 
-python is nice :)
+...how did you get here
