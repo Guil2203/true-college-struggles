@@ -1,5 +1,5 @@
-# true college struggles
+# Whatever The Fuck PHP Is
 
 this is just for college lmao dont mind this
 
-Whatever The Fuck PHP Is
+...how did you get here
