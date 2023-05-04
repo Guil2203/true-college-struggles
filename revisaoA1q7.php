@@ -7,7 +7,7 @@ para anos = 365 dias
 
 $dias = 20000;
 $idade = ($dias/365);
-echo $idade."<br>";
+echo number_format($idade)."<br>";
 if ($idade >= 18) {
     echo "maior de idade!";}
 else
